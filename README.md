@@ -22,16 +22,7 @@ protect you with. Don't get caught. Move slowly. Otherwise, your life is at stak
 
 ### Game
 
-This repository includes the entire game, already pre-build and ready for use. This build is made for windows with 
-keyboard and mouse. 
-
-The following controls are build in the game:
-
-- Movement: WASD
-- Turning: Horizontal mouse movement
-- Sprinting: Left shift (Hold)
-- Flashlight: Left mouse button
-- Menu: Escape
+This game can be freely downloaded from [itch.io](https://tgerritsen98.itch.io/at-your-mercy) due to GitHub file size limitations.
 
 ### Unity Editor
 
