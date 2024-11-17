@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83508048d39c427294edaf888394042e, type: 3}
+  m_Name: Route 11
+  m_EditorClassIdentifier: 
+  type: 1
+  points:
+  - {x: 460.51666, y: 250, z: 370.96716}
+  - {x: 479.48126, y: 250, z: 380.6743}
+  - {x: 488.38364, y: 250, z: 363.54553}
+  - {x: 484.57272, y: 250, z: 345.72592}
+  - {x: 467.0954, y: 250, z: 338.77515}
+  - {x: 448.92682, y: 249.94183, z: 332.21848}
+  - {x: 437.69327, y: 249.86388, z: 341.22403}
+  - {x: 435.20044, y: 250, z: 358.55655}
+  configurations:
+    drawLabels: 0
+    labelColor: {r: 1, g: 1, b: 1, a: 1}
+    lineColor: {r: 0, g: 0, b: 1, a: 1}
+    pointColor: {r: 0, g: 1, b: 0, a: 1}
+    pointSize: 0.5
+    clickable: 1

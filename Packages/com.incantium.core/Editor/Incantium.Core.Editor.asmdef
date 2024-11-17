@@ -1,0 +1,18 @@
+{
+    "name": "Incantium.Core.Editor",
+    "rootNamespace": "Incantium",
+    "references": [
+        "GUID:e0ed88fe7f007da4490c21daf8fc4eee"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

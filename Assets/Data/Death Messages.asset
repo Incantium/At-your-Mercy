@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9404d57bdc7410081cf17d497aa56a3, type: 3}
+  m_Name: Death Messages
+  m_EditorClassIdentifier: 
+  collection:
+  - That is a horrible way to die.
+  - Nom nom nom nom nom
+  - Better next time? Right? Riiight?
+  - Those monsters are deaf, you know!
+  - '"You didn\u2019t had to die."'
+  - '"It\u2019s just a scratch!!!"'
+  - The god of death has decided.
+  - '"You can\u2019t say \u201CNot Today\u201D forever."'
+  - Death is always true.
+  - '"Death\u2019s decisions are final."'
+  - You think death favors you.
+  - '"Tip: Don\u2019t die!"'
+  - Come on! Well there is always next time, right?
+  - Practice makes perfect.
+  - '"It was only a mistake!"'
+  - Your body is now lifeless.
+  - Flashlight. My one possible weakness!!!

@@ -1,0 +1,20 @@
+{
+  "name": "com.incantium.core",
+  "version": "0.1.0",
+  "displayName": "Core",
+  "description": "Package with general useful code required for any good game.",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/Incantium/Incantium-Core/blob/main/README.md",
+  "licensesUrl": "https://github.com/Incantium/Incantium-Core/blob/main/LICENSE",
+  "keywords": [
+    "Package",
+    "C#",
+    "Unity",
+    "Attributes",
+    "General-purpose"
+  ],
+  "author": {
+    "name": "Incantium",
+    "url": "https://github.com/Incantium"
+  }
+}

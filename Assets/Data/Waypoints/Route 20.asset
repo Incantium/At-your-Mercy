@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83508048d39c427294edaf888394042e, type: 3}
+  m_Name: Route 20
+  m_EditorClassIdentifier: 
+  type: 0
+  points:
+  - {x: 516.3021, y: 250, z: 358.2873}
+  - {x: 500.2983, y: 250, z: 349.62442}
+  - {x: 487.02512, y: 250, z: 337.8401}
+  - {x: 478.22675, y: 250, z: 326.68494}
+  - {x: 472.1461, y: 250, z: 315.28757}
+  - {x: 460.505, y: 249.80063, z: 311.60794}
+  configurations:
+    drawLabels: 0
+    labelColor: {r: 1, g: 1, b: 1, a: 1}
+    lineColor: {r: 0, g: 0, b: 1, a: 1}
+    pointColor: {r: 0, g: 1, b: 0, a: 1}
+    pointSize: 0.5
+    clickable: 1
